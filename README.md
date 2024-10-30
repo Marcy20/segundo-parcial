@@ -1,1 +1,1 @@
-# Mi proyecto Sample App
+# Proyecto de Aplicación de Ejemplo
